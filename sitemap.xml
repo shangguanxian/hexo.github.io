@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.akilar.online/life/air-conditioner/index.html</loc>
+    
+    <lastmod>2023-06-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.akilar.online/life/music/index.html</loc>
+    
+    <lastmod>2023-06-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.akilar.online/categories/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -11,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://www.akilar.online/tags/index.html</loc>
+    <loc>https://www.akilar.online/box/animation/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -20,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.akilar.online/box/animation/index.html</loc>
+    <loc>https://www.akilar.online/tags/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -48,24 +66,6 @@
   
   <url>
     <loc>https://www.akilar.online/life/games/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.akilar.online/life/movies/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.akilar.online/life/music/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
