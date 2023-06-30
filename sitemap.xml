@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.akilar.online/site/census/index.html</loc>
+    
+    <lastmod>2023-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.akilar.online/categories/index.html</loc>
+    
+    <lastmod>2023-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.akilar.online/box/gallery/index.html</loc>
+    
+    <lastmod>2023-06-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.akilar.online/box/nav/index.html</loc>
     
     <lastmod>2023-06-29</lastmod>
@@ -47,34 +74,7 @@
   </url>
   
   <url>
-    <loc>https://www.akilar.online/categories/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.akilar.online/tags/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.akilar.online/box/gallery/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.akilar.online/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://www.akilar.online/personal/love/index.html</loc>
+    <loc>https://www.akilar.online/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://www.akilar.online/site/census/index.html</loc>
+    <loc>https://www.akilar.online/personal/love/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -137,15 +137,6 @@
   </url>
   
   <url>
-    <loc>https://www.akilar.online/posts/2013454d.html</loc>
-    
-    <lastmod>2022-10-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.akilar.online/site/echarts/index.html</loc>
     
     <lastmod>2022-09-10</lastmod>
@@ -157,33 +148,12 @@
 
   <url>
     <loc>https://www.akilar.online/</loc>
-    <lastmod>2023-06-29</lastmod>
+    <lastmod>2023-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
-  <url>
-    <loc>https://www.akilar.online/tags/Markdown/</loc>
-    <lastmod>2023-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.akilar.online/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2023-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>https://www.akilar.online/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2023-06-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 </urlset>
